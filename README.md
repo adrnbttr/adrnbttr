@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adrnbttr
 - 👀 I’m interested in Data engineering and Backend things.
 - 🌱 I’m currently learning Python, Data engineering, GCP, Data warehouse things
-- :rocket: I’m looking to collaborate on Deep Reinforcement Learning Projects
 - :pushpin: You can visit my website https://www.adrienbouttier.com
 - 📫 You can drop a message on my LinkedIn profile https://www.linkedin.com/in/adrienbouttier/
 
