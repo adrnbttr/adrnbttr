@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @adrnbttr
-- 👀 I’m interested in Data engineering and Backend things.
-- 🌱 I’m currently learning Python, Data engineering, GCP, Data warehouse things
-- :pushpin: You can visit my website https://www.adrienbouttier.com
-- 📫 You can drop a message on my LinkedIn profile https://www.linkedin.com/in/adrienbouttier/
+# Hi, I'm Adrien 👋
 
-<!---
-adrnbttr/adrnbttr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend engineer, now data engineer too. I build **data platforms** — the plumbing
+between the services and the warehouse: APIs, pipelines, and the infra under them.
+
+- **Backend** — Node.js, Python
+- **Data** — Python, R, SQL, dbt
+- **Databases** — PostgreSQL, MongoDB, SQL Server
+- **Cloud & infra** — GCP, Scaleway, Terraform, Ansible
+- **Automation** — n8n
+
+[adrienbouttier.com](https://www.adrienbouttier.com) · [LinkedIn](https://www.linkedin.com/in/adrienbouttier/)
