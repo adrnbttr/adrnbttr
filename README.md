@@ -9,4 +9,4 @@ between the services and the warehouse: APIs, pipelines, and the infra under the
 - **Cloud & infra** — GCP, Scaleway, Terraform, Ansible
 - **Automation** — n8n
 
-[adrienbouttier.com](https://www.adrienbouttier.com) · [LinkedIn](https://www.linkedin.com/in/adrienbouttier/)
+[adrienbouttier.com](https://www.adrienbouttier.com) · [LinkedIn](https://www.linkedin.com/in/adrien-bouttier/)
